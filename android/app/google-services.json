@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "473753088200",
+    "project_id": "looli-3852f",
+    "storage_bucket": "looli-3852f.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:473753088200:android:6e68b49dcd301ace77b5fd",
+        "android_client_info": {
+          "package_name": "com.example.looli_app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB3AWCKpPOicqi421Vln98j0VqDx-M5Gm8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
