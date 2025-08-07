@@ -1,0 +1,13 @@
+{
+  "cmake.ignoreCMakeListsMissing": true,
+  "dart.flutterSdkPath": "C:\\flutter scr\\flutter",
+  "task.allowAutomaticTasks": true,
+  "debug.openDebug": "neverOpen",
+  "terminal.integrated.inheritEnv": false,
+  "tasks": {
+    "label": "lint on open",
+    "type": "shell",
+    "command": "npm run lint",
+    "runOn": "folderOpen"
+  }
+}
